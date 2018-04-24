@@ -1,0 +1,12 @@
+ul {
+  display: flex;
+  padding-left: 0;
+}
+
+li {
+  border: 2px solid crimson;
+  border-radius: 3px;
+  list-style: none;
+  margin-right: 20px;
+  padding: 0 15px;
+}
